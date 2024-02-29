@@ -1,1 +1,2 @@
-# Criptografia-
+A segurança de camadas, também conhecida como segurança em camadas ou segurança de várias camadas, refere-se a uma abordagem abrangente para proteger sistemas, redes e dados contra ameaças cibernéticas. Essa abordagem envolve a implementação de medidas de segurança em diferentes níveis (ou camadas) de um sistema, visando criar uma defesa robusta e múltipla contra ataques.
+As camadas de segurança são projetadas para trabalhar de maneira colaborativa, complementando umas às outras para fornecer uma proteção mais eficaz. Cada camada aborda aspectos específicos da segurança cibernética, visando mitigar diferentes tipos de ameaças. 
